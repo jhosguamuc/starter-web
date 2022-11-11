@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 
 
 Seguir editando para ver la diferencia
+
+para el editor
